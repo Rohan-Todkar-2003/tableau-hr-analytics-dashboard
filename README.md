@@ -1,8 +1,7 @@
 # 📊 HR Analytics Dashboard
 
 <div align="center">
-  
-  ![HR Dashboard Banner](https://via.placeholder.com/800x200/2D3748/FFFFFF?text=HR+Analytics+Dashboard)
+
   
   [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/rohan.todkar/vizzes)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohan-Todkar-2003/tableau-hr-analytics-dashboard)
@@ -60,7 +59,7 @@ A comprehensive **Human Resources Analytics Dashboard** designed to empower HR m
 - **Age-Salary Correlation**: Clear progression showing experience-based compensation
 - **Gender Pay Analysis**: Comparative salary analysis across education levels
 
-*📸 Add screenshot: `dashboards/snapshots/dashboard_page_1.png`*
+/dashboard/snapshots/HR  Summary.png
 
 </details>
 
@@ -86,7 +85,7 @@ A comprehensive **Human Resources Analytics Dashboard** designed to empower HR m
 - 💰 **Salary**: Salary range selection
 - 📊 **Status**: Active vs. terminated employees
 
-*📸 Add screenshot: `dashboards/snapshots/dashboard_page_2.png`*
+/dashboard/snapshots/HR  Details.png
 
 </details>
 
