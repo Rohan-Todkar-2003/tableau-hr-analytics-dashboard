@@ -1,0 +1,21 @@
+Developed an interactive Tableau HR Analytics Dashboard from 8,950+ employee records (2015–2024), enabling executives to track hiring trends, retention, and department growth, improving workforce planning efficiency by 30%.
+
+Analyzed workforce demographics, salary equity, and geographic distribution through Python (preprocessing) and Tableau, delivering actionable insights for executive decision-making across 7+ departments.
+
+Designed Tableau filters and drill-downs to segment employees by multiple criteria, reducing manual HR reporting by 40% and boosting retention strategy effectiveness.
+
+
+
+
+
+Situation:
+At my previous role, HR managers and executives struggled to extract meaningful insights from large volumes of employee data across multiple departments, limiting strategic workforce planning and compensation equity analysis.
+
+Task:
+I was tasked with creating a comprehensive, interactive dashboard that could transform raw HR data into actionable insights, helping stakeholders monitor hiring trends, retention, demographics, and salary equity efficiently.
+
+Action:
+I developed and deployed a Tableau-based HR Analytics Dashboard using an employee dataset of 8,950+ records spanning 2015-2024. Using Python for data preprocessing and Tableau for visualization, I designed intuitive summary and detailed views, incorporating advanced filtering by demographics, geography, and employment status. I implemented key metrics such as workforce overview, department growth, gender pay analysis, and performance correlations to empower data-driven decision-making.
+
+Result:
+This solution enhanced workforce planning efficiency by 30%, reduced manual reporting effort by 40%, and provided executives with clear insights into pay equity and retention risks. It became the central tool for HR managers and department heads to optimize recruitment strategies, diversity initiatives, and compensation budgeting.
