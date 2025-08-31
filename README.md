@@ -59,7 +59,8 @@ A comprehensive **Human Resources Analytics Dashboard** designed to empower HR m
 - **Age-Salary Correlation**: Clear progression showing experience-based compensation
 - **Gender Pay Analysis**: Comparative salary analysis across education levels
 
-[/dashboard/snapshots/HR  Summary.png](https://github.com/Rohan-Todkar-2003/tableau-hr-analytics-dashboard/blob/main/dashboard/snapshots/HR%20%20Summary.png)
+![HR Summary Dashboard](https://raw.githubusercontent.com/Rohan-Todkar-2003/tableau-hr-analytics-dashboard/main/dashboard/snapshots/HR%20%20Summary.png)
+
 
 </details>
 
@@ -85,7 +86,7 @@ A comprehensive **Human Resources Analytics Dashboard** designed to empower HR m
 - 💰 **Salary**: Salary range selection
 - 📊 **Status**: Active vs. terminated employees
 
-[/dashboard/snapshots/HR  Details.png](https://github.com/Rohan-Todkar-2003/tableau-hr-analytics-dashboard/blob/main/dashboard/snapshots/HR%20%20Details.png)
+![HR Analytics Dashboard](https://raw.githubusercontent.com/Rohan-Todkar-2003/tableau-hr-analytics-dashboard/main/dashboard/snapshots/HR%20%20Details.png)
 
 </details>
 
